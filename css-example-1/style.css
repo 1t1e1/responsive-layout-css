@@ -1,0 +1,26 @@
+body {
+}
+header {
+    background-color: #2e354f;
+    color: #fff;
+    padding: 45px 0;
+    font-size: 60px;
+}
+section {
+    padding: 45px 0;
+}
+
+.container {
+    margin: 0 auto;
+    width: 50%;
+    border: solid 3px magenta;
+    padding: 0 25px;
+}
+
+img {
+    width: 100%;
+}
+.section-two {
+    background-color: #2e354f;
+    color: #fff;
+}
